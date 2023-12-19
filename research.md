@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "About"
-description: "Why use Project Pages?"
+title: "Research"
+description: "What We Do"
 header-img: "img/home-bg.jpg"
 ---
 
