@@ -16,7 +16,7 @@ header-img: "img/students-bg.JPG"
     width: 48%; /* Adjust the width as needed */
     box-sizing: border-box;
     margin-bottom: 20px;
-    margin-right: 1%; /* Adjust the margin for space between columns */
+    margin-right: 5%; /* Adjust the margin for space between columns */
   }
 
   .member img {
@@ -30,6 +30,12 @@ header-img: "img/students-bg.JPG"
     width: 20px; /* Set a fixed width for the social icons */
     height: 20px; /* Set a fixed height for the social icons */
   }
+
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
 </style>
 
 <hr>
@@ -38,31 +44,17 @@ header-img: "img/students-bg.JPG"
   {% for member in site.data.members %}
     {% if member.visible == true %}
       <div class="member">
-        <img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:150px !important">
-        <h1>{{ member.name }}</h1>
-        <h3>{{ member.role }}</h3>
-
-        {% if member.github %} 
-          <span class="social-share-googleplus"><a href="https://github.com/{{ member.github }}" title="Github"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}"></a></span> 
-        {% endif %}
-        {% if member.gscholar %}
-          <span class="social-share-googleplus"><a href="{{ member.gscholar }}" title="Google Scholar"><img src="{{ "/img/icons/gscholar-icon.png" | prepend: site.baseurl }}"></a></span>
-        {% endif %}
-        {% if member.url %}
-          <span class="social-share-googleplus"><a href="{{ member.url }}" title="Google Scholar"><img src="{{ "/img/icons/url-icon.png"| prepend: site.baseurl }}"></a></span>
-        {% endif %}
-        
-        <br>
-
-        {% if member.bio %} 
-          {{ member.bio }}
-        {% endif %}
-        
-        <hr>
+        <!-- Member content goes here -->
       </div>
     {% endif %}
   {% endfor %}
+  
+  <!-- Clearfix to properly wrap around floated columns -->
+  <div class="clearfix"></div>
 </div>
+
+<!-- Footer content goes here -->
+
 
 
 
