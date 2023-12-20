@@ -32,9 +32,13 @@ header-img: "img/students-bg.JPG"
   }
 
   h1,
-  h3,
+  h3 {
+    font-size: 16px; /* Set the font size for the member details */
+    margin: 0; /* Reset any default margin */
+  }
+
   .bio {
-    font-size: 16px; /* Set the font size for the member details and bio */
+    font-size: 16px; /* Set the font size for the bio */
     margin: 0; /* Reset any default margin */
   }
 
@@ -76,17 +80,8 @@ header-img: "img/students-bg.JPG"
               <span class="social-share-googleplus"><a href="https://github.com/{{ member.github }}" title="Github"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}"></a></span> 
             {% endif %}
             {% if member.gscholar %}
-              <span class="social-share-googleplus"><a href="{{ member.gscholar }}" title="Google Scholar"><img src="{{ "/img/icons/gscholar-icon.png" | prepend: site.baseurl }}"></a></span>
-            {% endif %}
-            {% if member.url %}
-              <span class="social-share-googleplus"><a href="{{ member.url }}" title="Google Scholar"><img src="{{ "/img/icons/url-icon.png"| prepend: site.baseurl }}"></a></span>
-            {% endif %}
-          </div>
-        </div>
-      </div>
-    {% endif %}
-  {% endfor %}
-</div>
+              <span class="social-share-googleplus"><a href="{{ member.g
+
 
 
 
