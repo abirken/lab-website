@@ -31,17 +31,6 @@ header-img: "img/students-bg.JPG"
     flex: 1; /* Allow the details to take up remaining space */
   }
 
-  h1,
-  h3 {
-    font-size: 16px; /* Set the font size for the member details */
-    margin: 0; /* Reset any default margin */
-  }
-
-  .bio {
-    font-size: 16px; /* Set the font size for the bio */
-    margin: 0; /* Reset any default margin */
-  }
-
   .social-icons {
     display: flex;
     gap: 5px; /* Adjust the gap between icons as needed */
@@ -70,9 +59,6 @@ header-img: "img/students-bg.JPG"
         <div class="member-details">
           <h1>{{ member.name }}</h1>
           <h3>{{ member.role }}</h3>
-          {% if member.bio %} 
-            <p class="bio">{{ member.bio }}</p>
-          {% endif %}
 
           <!-- Display scholar/website icons on the same line -->
           <div class="social-icons">
@@ -91,6 +77,7 @@ header-img: "img/students-bg.JPG"
     {% endif %}
   {% endfor %}
 </div>
+
 
 
 
