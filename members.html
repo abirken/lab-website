@@ -8,8 +8,8 @@ header-img: "img/students-bg.JPG"
 <style>
   .member-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(1fr, 48%)); /* Adjust the width as needed */
-    gap: 1%;
+    grid-template-columns: repeat(auto-fill, minmax(47%, 1fr)); /* Adjust the width as needed */
+    gap: 3%;
   }
 
   .member {
@@ -17,7 +17,7 @@ header-img: "img/students-bg.JPG"
     margin-bottom: 20px;
     display: flex;
     flex-direction: column; /* Stack child elements vertically */
-    height: 300px; /* Set a fixed height for each grid item */
+    height: 100%; /* Expand each member item to occupy the full height */
   }
 
   .member img {
@@ -50,7 +50,7 @@ header-img: "img/students-bg.JPG"
   {% for member in site.data.members %}
     {% if member.visible == true %}
       <div class="member">
-        <img src="{{ member.img }}" alt="{{ member.name }}">
+        <img src="{{ member.img }}" style="width: 100%;">
         <h1>{{ member.name }}</h1>
         <h3>{{ member.role }}</h3>
 
@@ -67,25 +67,17 @@ header-img: "img/students-bg.JPG"
           {% endif %}
         </div>
 
-        <!-- Other member details go here -->
+        <br>
+
+        {% if member.bio %} 
+          {{ member.bio }}
+        {% endif %}
+
+	<hr>
       </div>
     {% endif %}
   {% endfor %}
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
