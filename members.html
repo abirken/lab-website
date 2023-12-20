@@ -8,28 +8,39 @@ header-img: "img/students-bg.JPG"
 <style>
   .member-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(47%, 1fr)); /* Adjust the width as needed */
-    gap: 3%;
+    grid-template-columns: repeat(auto-fill, minmax(1fr, 48%)); /* Adjust the width as needed */
+    gap: 1%;
   }
 
   .member {
     box-sizing: border-box;
     margin-bottom: 20px;
     display: flex;
-    flex-direction: column; /* Stack child elements vertically */
-    height: 100%; /* Expand each member item to occupy the full height */
+    flex-direction: row; /* Align child elements horizontally */
+    align-items: center; /* Center items vertically within the container */
+    height: 150px; /* Set a fixed height for each grid item */
   }
 
   .member img {
-    max-height: 150px; /* Set a fixed maximum height for the member images */
-    object-fit: contain; /* Maintain the original aspect ratio without stretching */
-    margin-bottom: 10px;
-    display: block; /* Prevents unwanted margin-bottom issues */
+    max-height: 100%; /* Set a maximum height for the images relative to the container */
+    width: auto; /* Allow the image to scale proportionally */
+    margin-right: 10px; /* Add spacing between the image and text */
   }
 
- .social-icons {
+  .member-details {
+    flex: 1; /* Allow the details to take up remaining space */
+  }
+
+  h1,
+  h3,
+  .bio {
+    font-size: 16px; /* Set the font size for the member details and bio */
+    margin: 0; /* Reset any default margin */
+  }
+
+  .social-icons {
     display: flex;
-    gap: 10px; /* Adjust the gap between icons as needed */
+    gap: 5px; /* Adjust the gap between icons as needed */
     margin-bottom: 0; /* Reset bottom margin */
   }
 
@@ -51,34 +62,34 @@ header-img: "img/students-bg.JPG"
   {% for member in site.data.members %}
     {% if member.visible == true %}
       <div class="member">
-        <img src="{{ member.img }}" style="width: 100%;">
-        <h1>{{ member.name }}</h1>
-        <h3>{{ member.role }}</h3>
+        <img src="{{ member.img }}" alt="{{ member.name }}">
+        <div class="member-details">
+          <h1>{{ member.name }}</h1>
+          <h3>{{ member.role }}</h3>
+          {% if member.bio %} 
+            <p class="bio">{{ member.bio }}</p>
+          {% endif %}
 
-        <!-- Display scholar/website icons on the same line -->
-        <div class="social-icons">
-          {% if member.github %} 
-            <span class="social-share-googleplus"><a href="https://github.com/{{ member.github }}" title="Github"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}"></a></span> 
-          {% endif %}
-          {% if member.gscholar %}
-            <span class="social-share-googleplus"><a href="{{ member.gscholar }}" title="Google Scholar"><img src="{{ "/img/icons/gscholar-icon.png" | prepend: site.baseurl }}"></a></span>
-          {% endif %}
-          {% if member.url %}
-            <span class="social-share-googleplus"><a href="{{ member.url }}" title="Google Scholar"><img src="{{ "/img/icons/url-icon.png"| prepend: site.baseurl }}"></a></span>
-          {% endif %}
+          <!-- Display scholar/website icons on the same line -->
+          <div class="social-icons">
+            {% if member.github %} 
+              <span class="social-share-googleplus"><a href="https://github.com/{{ member.github }}" title="Github"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}"></a></span> 
+            {% endif %}
+            {% if member.gscholar %}
+              <span class="social-share-googleplus"><a href="{{ member.gscholar }}" title="Google Scholar"><img src="{{ "/img/icons/gscholar-icon.png" | prepend: site.baseurl }}"></a></span>
+            {% endif %}
+            {% if member.url %}
+              <span class="social-share-googleplus"><a href="{{ member.url }}" title="Google Scholar"><img src="{{ "/img/icons/url-icon.png"| prepend: site.baseurl }}"></a></span>
+            {% endif %}
+          </div>
         </div>
-
-        <br>
-
-        {% if member.bio %} 
-          {{ member.bio }}
-        {% endif %}
-
-	<hr>
       </div>
     {% endif %}
   {% endfor %}
 </div>
+
+<!-- Footer content goes here -->
+
 
 
 
