@@ -17,20 +17,21 @@ header-img: "img/students-bg.JPG"
     margin-bottom: 20px;
     display: flex;
     flex-direction: column; /* Stack child elements vertically */
+    align-items: flex-start; /* Left-align the content */
     height: 100%; /* Expand each member item to occupy the full height */
   }
 
   .member img {
     max-height: 150px; /* Set a fixed maximum height for the member images */
     object-fit: contain; /* Maintain the original aspect ratio without stretching */
-    margin-bottom: 5px;
+    width: auto; /* Allow the image to scale proportionally */
     display: block; /* Prevents unwanted margin-bottom issues */
   }
 
   .social-icons {
     display: flex;
     gap: 10px; /* Adjust the gap between icons as needed */
-    margin-bottom: -10px;
+    margin-bottom: -12px;
     padding: 0;
   }
 
