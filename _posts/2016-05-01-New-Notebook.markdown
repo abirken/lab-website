@@ -2,7 +2,7 @@
 layout:     notebook
 title:      New Notebook
 author:     
-tags: 		media workflows
+tags: 		media template
 subtitle:   Showcasing Jupyter Notebook Translator Layout
 category:  project1
 
