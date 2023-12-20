@@ -9,12 +9,15 @@ header-img: "img/students-bg.JPG"
   .member-container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(48%, 1fr)); /* Adjust the width as needed */
-    gap: 2%;
+    gap: 1%;
   }
 
   .member {
     box-sizing: border-box;
     margin-bottom: 20px;
+    display: flex;
+    flex-direction: column; /* Stack child elements vertically */
+    height: 100%; /* Expand each member item to occupy the full height */
   }
 
   .member img {
@@ -23,6 +26,11 @@ header-img: "img/students-bg.JPG"
     height: auto; /* Ensure proportional scaling */
     margin-bottom: 10px;
     display: block; /* Prevents unwanted margin-bottom issues */
+  }
+
+  .social-icons {
+    display: flex;
+    gap: 10px; /* Adjust the gap between icons as needed */
   }
 
   .social-share-googleplus img {
@@ -46,17 +54,20 @@ header-img: "img/students-bg.JPG"
         <img src="{{ member.img }}" style="width: 100%;">
         <h1>{{ member.name }}</h1>
         <h3>{{ member.role }}</h3>
-        
-         {% if member.github %} 
-          <span class="social-share-googleplus"><a href="https://github.com/{{ member.github }}" title="Github"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}"></a></span> 
-        {% endif %}
-        {% if member.gscholar %}
-          <span class="social-share-googleplus"><a href="{{ member.gscholar }}" title="Google Scholar"><img src="{{ "/img/icons/gscholar-icon.png" | prepend: site.baseurl }}"></a></span>
-        {% endif %}
-        {% if member.url %}
-          <span class="social-share-googleplus"><a href="{{ member.url }}" title="Google Scholar"><img src="{{ "/img/icons/url-icon.png"| prepend: site.baseurl }}"></a></span>
-        {% endif %}
-        
+
+        <!-- Display scholar/website icons on the same line -->
+        <div class="social-icons">
+          {% if member.github %} 
+            <span class="social-share-googleplus"><a href="https://github.com/{{ member.github }}" title="Github"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}"></a></span> 
+          {% endif %}
+          {% if member.gscholar %}
+            <span class="social-share-googleplus"><a href="{{ member.gscholar }}" title="Google Scholar"><img src="{{ "/img/icons/gscholar-icon.png" | prepend: site.baseurl }}"></a></span>
+          {% endif %}
+          {% if member.url %}
+            <span class="social-share-googleplus"><a href="{{ member.url }}" title="Google Scholar"><img src="{{ "/img/icons/url-icon.png"| prepend: site.baseurl }}"></a></span>
+          {% endif %}
+        </div>
+
         <br>
 
         {% if member.bio %} 
@@ -64,11 +75,10 @@ header-img: "img/students-bg.JPG"
         {% endif %}
 
 	<hr>
-</div>      
+      </div>
     {% endif %}
   {% endfor %}
 </div>
-
 
 
 
