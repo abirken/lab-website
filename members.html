@@ -8,8 +8,8 @@ header-img: "img/students-bg.JPG"
 <style>
   .member-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(1fr, 46%)); /* Adjust the width as needed */
-    gap: 3%;
+    grid-template-columns: repeat(auto-fill, minmax(1fr, 48%)); /* Adjust the width as needed */
+    gap: 1%;
   }
 
   .member {
@@ -80,7 +80,17 @@ header-img: "img/students-bg.JPG"
               <span class="social-share-googleplus"><a href="https://github.com/{{ member.github }}" title="Github"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}"></a></span> 
             {% endif %}
             {% if member.gscholar %}
-              <span class="social-share-googleplus"><a href="{{ member.g
+              <span class="social-share-googleplus"><a href="{{ member.gscholar }}" title="Google Scholar"><img src="{{ "/img/icons/gscholar-icon.png" | prepend: site.baseurl }}"></a></span>
+            {% endif %}
+            {% if member.url %}
+              <span class="social-share-googleplus"><a href="{{ member.url }}" title="Google Scholar"><img src="{{ "/img/icons/url-icon.png"| prepend: site.baseurl }}"></a></span>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
 
 
 
