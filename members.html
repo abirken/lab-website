@@ -22,8 +22,8 @@ header-img: "img/students-bg.JPG"
 
   .member img {
     width: 100%;
-    max-height: 150px;
-    width: auto; /* Ensure proportional scaling */
+    max-height: 150px; /* Set a fixed maximum height for the member images */
+    object-fit: cover; /* Maintain aspect ratio while covering the container */
     margin-bottom: 10px;
     display: block; /* Prevents unwanted margin-bottom issues */
   }
