@@ -9,7 +9,7 @@ header-img: "img/students-bg.JPG"
   .member-container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(47%, 1fr)); /* Adjust the width as needed */
-    gap: 2%;
+    gap: 3%;
   }
 
   .member {
@@ -22,8 +22,8 @@ header-img: "img/students-bg.JPG"
 
   .member img {
     max-height: 150px; /* Set a fixed maximum height for the member images */
-    width: auto;
-    height: auto; /* Maintain the original aspect ratio */
+    width: 100%; /* Occupy 100% of the available width without stretching */
+    object-fit: contain; /* Maintain the original aspect ratio without stretching */
     margin-bottom: 10px;
     display: block; /* Prevents unwanted margin-bottom issues */
   }
