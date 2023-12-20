@@ -2,7 +2,7 @@
 layout:     post
 title:      New Matlab Script
 author:     Ahmet Cecen
-tags: 		matlab workflows
+tags: 		matlab template
 subtitle:   Some Short Description of the Script
 category:  project1
 visualworkflow: true
