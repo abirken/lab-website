@@ -9,7 +9,7 @@ header-img: "img/resources-bg.jpg"
 
 ### Programs we advise under:
 * [Environmental Economics (EE)](https://www.udel.edu/academics/colleges/ceoe/departments/smsp/degree/environmental-economics/)
-* (https://www.udel.edu/academics/colleges/ceoe/departments/smsp/degree/marine-policy-degrees/#:~:text=Students%20in%20the%20Marine%20Policy,and%20coupled%20natural%2Dhuman%20environments.)[Marine Policy (MP)]
+* [Marine Policy (MP)](https://www.udel.edu/academics/colleges/ceoe/departments/smsp/degree/marine-policy-degrees/#:~:text=Students%20in%20the%20Marine%20Policy,and%20coupled%20natural%2Dhuman%20environments.)
 * [Environmental Science and Management (ESM)](https://www.udel.edu/academics/colleges/ceoe/prospective-students/graduate/environmental-science-and-management/)
 * [Economics](https://lerner.udel.edu/)
 
