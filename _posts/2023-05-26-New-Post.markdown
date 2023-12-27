@@ -8,6 +8,11 @@ category:  project1
 ---
 <!-- Start Writing Below in Markdown -->
 
+![Description](http://abirken.github.io/project-pages/img/posts/IMG_2617.jpg)
+
+
+
+<!--
 # Table of Contents
 
 * TOC
@@ -55,9 +60,6 @@ category:  project1
 [2]:http://www.reddit.com
 
 ## Images
-
-![Description](http://abirken.github.io/project-pages/img/posts/IMG_2617.jpg)
-
 ## Code
 
 Inline `code`.
