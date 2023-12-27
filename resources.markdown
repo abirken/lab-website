@@ -5,6 +5,7 @@ description: "For prospective students"
 header-img: "img/resources-bg.jpg"
 ---
 ### We are always happy to hear from students interested in joining our group!
+Please see links below for additional information for prospective students. Those seeking PhD positions should email Dr. Birkenbach and/or Dr. Oremus, including a copy of their transcripts and a brief summary of research interests. We are especially interested in applicants with strong quantitative/programming backgrounds!
 
 
 ### Programs we advise under:
