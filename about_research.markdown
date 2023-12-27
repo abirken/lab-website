@@ -11,7 +11,12 @@ header-img: "img/research-bg.JPG"
 * Bioeconomic modeling
 * Fisheries management
 * Climate change
-* Aquaculture
 * Coastal community resilience
 * Seafood markets
 
+### In addition, we have advised student projects related to:
+* Aquaculture
+* Small-scale fisheries
+* Fishery monitoring/enforcement
+* Resource valuation
+* ...and more
