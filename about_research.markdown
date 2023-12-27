@@ -4,7 +4,7 @@ title: "Research"
 description: "What We Do"
 header-img: "img/research-bg.JPG"
 ---
-## Our active research areas include:
+### Our active research areas include:
 * Marine resource economics
 * Policy evaluation
 * Econometric analysis
@@ -14,3 +14,4 @@ header-img: "img/research-bg.JPG"
 * Aquaculture
 * Coastal community resilience
 * Seafood markets
+
