@@ -10,9 +10,10 @@ subtitle:  	Research explores "underfished" species
 ### Much blame cast upon fisheries policy may be misguided
 **Kimberly L. Oremus**, Eyal G. Frank, Jesse Jian Adelman, **Seleni Cruz,** Janna Herndon, Brad Sewell, and Lisa Suatoni
 
-> With many fish populations around the world overfished [(1)][1], countries are increasingly passing laws to prevent overfishing and rebuild depleted stocks (2–4), an objective adopted in the UN Sustainable Development Goals. However, some elected officials (5), scientists (6), and industry groups in the US and Europe (7, 8) have questioned whether such policies have gone too far, resulting in “underfishing,” to the economic detriment of fishing communities. This idea is influencing debate over reauthorizing the US Magnuson-Stevens Act (MSA), which shares key features with fishing policies in the European Union (EU) and Canada and is regarded internationally as a benchmark fishing law. Analyzing two decades of data on 170 US fish stocks, we find that the reasons some species are fished less than others are varied, and the MSA is only sometimes the primary factor. In many cases, fishers are fishing less of a species because they find it unprofitable.
+> With many fish populations around the world overfished [(1)][1], countries are increasingly passing laws to prevent overfishing and rebuild depleted stocks (2–4), an objective adopted in the UN Sustainable Development Goals. However, some elected officials (5), scientists [(6)][6], and industry groups in the US and Europe (7, 8) have questioned whether such policies have gone too far, resulting in “underfishing,” to the economic detriment of fishing communities. This idea is influencing debate over reauthorizing the US Magnuson-Stevens Act (MSA), which shares key features with fishing policies in the European Union (EU) and Canada and is regarded internationally as a benchmark fishing law. Analyzing two decades of data on 170 US fish stocks, we find that the reasons some species are fished less than others are varied, and the MSA is only sometimes the primary factor. In many cases, fishers are fishing less of a species because they find it unprofitable.
 
-[1]:FAO, The State of World Fisheries and Aquaculture 2022 (2022)
+[1]:https://www.fao.org/3/cc0461en/online/cc0461en.html
+[6]:
 
 
 Full policy forum article available [here](https://www.science.org/doi/abs/10.1126/science.adf5595).
