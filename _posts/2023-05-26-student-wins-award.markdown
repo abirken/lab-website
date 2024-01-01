@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Student Wins Award!
+title:      Student wins award!
 author:     Author Name
 tags: 		posts
 subtitle:  	NAAFE Best Student Presentation awarded to Seleni Cruz
