@@ -1,0 +1,9 @@
+---
+layout:     post
+title:      Coast Day 2023
+author:     Author Name
+tags: 		  posts
+subtitle:  	Bringing blue crab research to the community
+category:   project1
+---
+<!-- Start Writing Below in Markdown -->
