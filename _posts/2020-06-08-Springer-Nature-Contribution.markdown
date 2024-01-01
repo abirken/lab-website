@@ -2,7 +2,7 @@
 layout:     post
 title:      Springer Nature Contribution
 author:     
-tags: 		  media templates
+tags: 		  media articles
 subtitle:   Fisheries Have a Data Infrastructure Problem
 category:  project1
 ---
