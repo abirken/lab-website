@@ -2,7 +2,7 @@
 layout:     	slide
 title:     	Presentation
 author:     	Lab Member
-tags:           presentation
+tags:           presentations
 subtitle:    	Some Short Description of Presentation
 
 theme:		night # default/beige/blood/moon/night/serif/simple/sky/solarized
