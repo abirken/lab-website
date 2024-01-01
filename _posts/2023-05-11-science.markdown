@@ -9,4 +9,7 @@ category:   project1
 <!-- Start Writing Below in Markdown -->
 ## Underfished or unwanted?
 ### Much blame cast upon fisheries policy may be misguided
+By: KIMBERLY L. OREMUS , EYAL G. FRANK, JESSE JIAN ADELMAN, SELENI CRUZ, JANNA HERNDON, BRAD SEWELL, AND LISA SUATONI
+Abstract: 
+
 Full policy forum article available [here](https://www.science.org/doi/abs/10.1126/science.adf5595).
