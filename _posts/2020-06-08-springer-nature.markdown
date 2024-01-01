@@ -2,7 +2,7 @@
 layout:     post
 title:      World Oceans Day post on Springer Nature
 author:     
-tags: 		  media articles
+tags: 		  media
 subtitle:   Fisheries Have a Data Infrastructure Problem
 category:  project1
 ---
