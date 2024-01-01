@@ -1,7 +1,7 @@
 ---
 layout:     	slide
-title:     		New Presentation
-author:     	Ahmet Cecen
+title:     	Presentation
+author:     	Lab Member
 tags:           presentation
 subtitle:    	Some Short Description of Presentation
 
