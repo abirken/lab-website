@@ -2,7 +2,7 @@
 layout:     post
 title:      Lab Members Publish Science Policy Forum
 author:     Author Name
-tags: 		  articles
+tags: 		  articles media
 subtitle:  	Research explores "underfished" species
 ---
 <!-- Start Writing Below in Markdown -->
@@ -21,3 +21,4 @@ subtitle:  	Research explores "underfished" species
 
 
 Full policy forum article available [here](https://www.science.org/doi/abs/10.1126/science.adf5595).
+UDaily coverage available [here](https://www.udel.edu/udaily/2023/june/kimberly-oremus-magnuson-stevens-act-fish-policy-market/).
