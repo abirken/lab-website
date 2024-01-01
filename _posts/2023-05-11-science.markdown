@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Lab Members Publish Science Policy Forum
+title:      Lab members publish Science policy forum
 author:     Author Name
 tags: 		  articles media
 subtitle:  	Research explores "underfished" species
