@@ -14,7 +14,7 @@ header-img: "img/research-bg.JPG"
 * Coastal community resilience
 * Seafood markets
 
-### In addition, we have advised student projects related to:
+### We've also advised student projects on:
 * Aquaculture
 * Small-scale fisheries
 * Fishery monitoring/enforcement
