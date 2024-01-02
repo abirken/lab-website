@@ -4,7 +4,7 @@ title: "Resources"
 description: "Information for prospective students"
 header-img: "img/resources-bg.jpg"
 ---
-### We love to hear from students interested in joining our group!
+### We love hearing from interested students!
 _Those seeking PhD positions should email Dr. Birkenbach and/or Dr. Oremus, including a copy of their transcripts and a brief summary of research interests._ We are especially interested in applicants with strong quantitative/programming backgrounds.
 
 
