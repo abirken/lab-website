@@ -1,0 +1,8 @@
+---
+layout:     post
+title:      Guest-edited MRE special issue published
+author:     Author Name
+tags: 		  posts articles
+subtitle:  	Articles and accompanying introduction focus on coastal communities
+---
+<!-- Start Writing Below in Markdown -->
