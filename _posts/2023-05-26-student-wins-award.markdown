@@ -4,7 +4,6 @@ title:      Student wins award!
 author:     Author Name
 tags: 		posts
 subtitle:  	NAAFE Best Student Presentation awarded to Seleni Cruz
-category:  project1
 ---
 <!-- Start Writing Below in Markdown -->
 
