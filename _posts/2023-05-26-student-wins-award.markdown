@@ -3,10 +3,10 @@ layout:     post
 title:      Student wins award!
 author:     Author Name
 tags: 		posts
-subtitle:  	NAAFE Best Student Presentation awarded to Seleni Cruz
+subtitle:  	NAAFE Best Student Presentation awarded to Seleni Cruz <i class="fa-solid fa-trophy"></i>
 ---
 <!-- Start Writing Below in Markdown -->
-<i class="fa-solid fa-trophy"></i>
+
 ![Description](http://abirken.github.io/project-pages/img/posts/IMG_2617.jpg)
 
 
