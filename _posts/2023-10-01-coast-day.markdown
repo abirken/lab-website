@@ -4,6 +4,6 @@ title:      Coast Day 2023
 author:     Author Name
 tags: 		  posts
 subtitle:  	Lab brings blue crab research to the community
-category:   project1
 ---
 <!-- Start Writing Below in Markdown -->
+<i class="fa-solid fa-crab"></i>
