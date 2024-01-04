@@ -6,7 +6,7 @@ tags: 		posts
 subtitle:  	NAAFE Best Student Presentation awarded to Seleni Cruz
 ---
 <!-- Start Writing Below in Markdown -->
-
+Congratulations to Seleni Cruz, who won the Best Student Presentation award at the 2023 Forum of the North American Association of Fisheries Economists in Woods Hole, MA! Seleni faced tough competition from students across the continent and received valuable feedback on her Sea Grant-funded research on the Delaware Bay blue crab fishery. We're so proud of her achievement!
 ![Description](http://abirken.github.io/project-pages/img/posts/IMG_2617.jpg)
 
 
