@@ -14,3 +14,5 @@ Full article available [here](https://doi.org/10.3389/fmars.2023.1232642).
 Figure 1: Summary of commercial fishery citations and fine guidance for the Alaska (AK) and Northeast (NE) regions.
 
 ![Description](https://www.frontiersin.org/files/Articles/1232642/fmars-10-1232642-HTML/image_m/fmars-10-1232642-g001.jpg)
+<img src="https://www.frontiersin.org/files/Articles/1232642/fmars-10-1232642-HTML/image_m/fmars-10-1232642-g001.jpg" alt="Description" width="50%">
+
