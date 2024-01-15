@@ -19,10 +19,10 @@ Those seeking PhD positions should email Dr. Birkenbach and/or Dr. Oremus at the
 * [Link to apply](https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/)
 * [Cost of attendance (for unfunded positions)](https://www.udel.edu/academics/colleges/grad/prospective-students/cost-of-attendance/)
 * [Funding opportunities](https://www.udel.edu/academics/colleges/grad/current-students/funding/)
+
+
+### Other:
 * [DEI at the College of Earth, Ocean, and Environment](https://www.udel.edu/academics/colleges/ceoe/about/dei/)
-
-
-### About Delaware and UD:
 * [UDaily News](https://www.udel.edu/udaily/)
 * [UD Climate Change Hub](https://sites.udel.edu/climatechangehub/)
 * [Share Your Skills seminars](https://www1.udel.edu/shareyourskills/page2.html)
