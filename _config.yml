@@ -10,7 +10,7 @@ url: "https://abirken.github.io"
 baseurl: "/lab-website"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /project-pages/img/logos/logowhiteinv.png
+logo: /lab-website/img/logos/logowhiteinv.png
 
 # Tertiary Parameters
 github_username:  abirken
