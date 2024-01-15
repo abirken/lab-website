@@ -5,7 +5,7 @@ description: "Information for prospective students"
 header-img: "img/resources-bg.jpg"
 ---
 ### We love hearing from interested students!
-_Those seeking PhD positions should email Dr. Birkenbach and/or Dr. Oremus, including a copy of their transcripts and a brief summary of research interests._ We are especially interested in applicants with strong quantitative/programming backgrounds.
+Those seeking PhD positions should email Dr. Birkenbach and/or Dr. Oremus at the _udel.edu_ addresses listed on our webpages. Please note that funding is limited, and, due to a large volume of inquiries, we are unable to respond to every email we receive. We are especially interested in applicants with strong quantitative/programming backgrounds. To aid us in providing individualized feedback, please include in your email (1) an up-to-date CV, (2) relevant transcripts from prior coursework, and (3) a brief summary of research interests and future goals. 
 
 
 ### Programs we advise under:
