@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      Student wins award!
-author:     Author Name
-tags: 		posts
+author:     Birkenbach-Oremus Lab
+tags: 		    posts
 subtitle:  	NAAFE Best Student Presentation awarded to Seleni Cruz
 ---
 <!-- Start Writing Below in Markdown -->
