@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      World Oceans Day post on Springer Nature
-author:     
+author:     Birkenbach-Oremus Lab
 tags: 		  media
 subtitle:   Drs. Oremus and Birkenbach highlight data problems in fisheries
 ---
