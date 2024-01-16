@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Guest-edited MRE special issue published
-author:     Author Name
+author:     Birkenbach-Oremus Lab
 tags: 		  posts articles
 subtitle:  	Coastal communities at a crossroads
 ---
