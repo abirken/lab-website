@@ -6,3 +6,5 @@ tags: 		  posts
 subtitle:  	Lab brings blue crab research to the community
 ---
 <!-- Start Writing Below in Markdown -->
+
+![Description](http://abirken.github.io/lab-website/img/posts/2023-10-01-1.jpg)
