@@ -9,10 +9,10 @@ header-img: "img/research-bg.JPG"
 * Policy evaluation
 * Econometric analysis
 * Bioeconomic modeling
-* Fisheries management
+* Fisheries management at international, national, regional, and state levels
 * Climate change
 * Coastal community resilience
-* Seafood markets
+* Seafood markets and prices
 
 ### We've also advised student projects on:
 * Aquaculture
