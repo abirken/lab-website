@@ -15,9 +15,9 @@ logo: /lab-website/img/logos/logowhiteinv.png
 # Tertiary Parameters
 github_username:  abirken
 project_repository: website
-disqus_shortname: project-pages
-g-analytics: UA-75881392-1
-altmetric: true
+disqus_shortname: lab-website
+g-analytics: 
+altmetric: false
 
 # Build settings
 gems: [jekyll-paginate]
