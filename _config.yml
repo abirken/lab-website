@@ -7,7 +7,7 @@ url: "https://birkenbach-oremus-lab.github.io"
 
 
 # Secondary Parameters
-baseurl: "/lab-website"
+baseurl: "/home"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: /lab-website/img/logos/logowhiteinv.png
