@@ -8,6 +8,6 @@ subtitle:  	Lab brings blue crab research to the community
 <!-- Start Writing Below in Markdown -->
 **Dr. Kimberly Oremus** and PhD candidate **Seleni Cruz** represented the lab in the first in-person Coast Day event since 2019! A (normally) annual tradition since 1976, Coast Day invites the community onto its Lewes campus to see and engage with research happening in UD’s College of Earth, Ocean and Environment (CEOE). This year, we shared our Sea Grant-supported blue crab work, devising a game to test locals’ knowledge of the different market categories and prices of Delaware’s beloved blue crab. Seeking information on fishing choices/behaviors for our bioeconomic model, Seleni also invited recreational blue crab fishers to actively participate in the research process by sharing their insights and experiences with her. 
 
-![Description](http://abirken.github.io/lab-website/img/posts/2023-10-01-2.jpg)
+![Description](http://birkenbach-oremus-lab.github.io/website/img/posts/2023-10-01-2.jpg)
 
-![Description](http://abirken.github.io/lab-website/img/posts/2023-10-01-1.jpg)
+![Description](http://birkenbach-oremus-lab.github.io/website/img/posts/2023-10-01-1.jpg)
