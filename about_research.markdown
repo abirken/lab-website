@@ -22,7 +22,7 @@ header-img: "img/research-bg.JPG"
 * ...and more
 
 ### Support:
-To make a donation in support of fisheries economics research and education at the University of Delaware:
+To make a donation in support of fisheries economics research and education at UD:
 1. Please visit [https://ud.alumniq.com/giving/to/makeagift](https://ud.alumniq.com/giving/to/makeagift)
 2. Click the link that says "I'd like to search for a different option" 
 3. Search for keywords "fisheries" and "economics" to find the Lee G. Anderson Fisheries Economics and Management Fellowship
