@@ -27,4 +27,4 @@ To support students studying fisheries economics at UD:
 2. Click the link that says "I'd like to search for a different option" 
 3. Search for keywords "fisheries" and "economics" to find the _Lee G. Anderson Fisheries Economics and Management Fellowship_
 
-We are grateful to DE Sea Grant, NOAA Fisheries, Delaware Department of Natural Resources & Environmental Control (DNREC), the Natural Resources Defense Council (NRDC), and others for financial support of our research.
+We are grateful to DE Sea Grant, NOAA Fisheries, Delaware Department of Natural Resources & Environmental Control (DNREC), the Natural Resources Defense Council (NRDC), and others for financial support of our research!
