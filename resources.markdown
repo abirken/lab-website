@@ -22,12 +22,13 @@ To aid us in providing individualized feedback, please include in your email: (1
 * [Cost of attendance (for unfunded positions)](https://www.udel.edu/academics/colleges/grad/prospective-students/cost-of-attendance/)
 * [Funding opportunities](https://www.udel.edu/academics/colleges/grad/current-students/funding/)
 
+### Professional development:
+* [Professional development at UD](https://www.udel.edu/academics/colleges/grad/current-students/professional-development/)
+* [Career resources for students in the College of Earth, Ocean, and Environment](https://www.udel.edu/academics/colleges/ceoe/current-students/career-resources/)
+* [Share Your Skills seminars](https://www1.udel.edu/shareyourskills/page2.html)
 
 ### Other:
-* [DEI at the College of Earth, Ocean, and Environment (CEOE)](https://www.udel.edu/academics/colleges/ceoe/about/dei/)
+* [UD Climate Change Hub](https://sites.udel.edu/climatechangehub/)
+* [DEI at the College of Earth, Ocean, and Environment](https://www.udel.edu/academics/colleges/ceoe/about/dei/)
 * [UDaily News](https://www.udel.edu/udaily/)
 * [UD campus info](https://www.udel.edu/apply/undergraduate-admissions/plan-your-visit/virtual-visit/)
-* [UD Climate Change Hub](https://sites.udel.edu/climatechangehub/)
-* [Graduate student professional development](https://www.udel.edu/academics/colleges/grad/current-students/professional-development/)
-* [Career resources for CEOE students](https://www.udel.edu/academics/colleges/ceoe/current-students/career-resources/)
-* [Share Your Skills seminars](https://www1.udel.edu/shareyourskills/page2.html)
