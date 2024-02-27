@@ -31,8 +31,8 @@
   visible: true
 
 - name: Kent Wicker
-  role: PhD student in Marine Policy
+  role: Incoming PhD student in Marine Policy
   img: https://images.squarespace-cdn.com/content/v1/63b3…039e91/Wicker_Brammell-202304-40.jpg?format=1500w
   bio: Kent has been a courtroom attorney for his entire career, prosecuting and defending high-profile commercial and white collar criminal cases while teaching courses and winning awards along the way. He is a graduate of Duke University and Harvard Law School and brings this expertise to his study of marine resource extraction at UD.
   url: https://www.wickerbrammell.com/kent
-  visible: false
+  visible: true
