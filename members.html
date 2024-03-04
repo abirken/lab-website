@@ -95,10 +95,12 @@ header-img: "img/students-bg.JPG"
         </div>
 
         <br>
-
-        {% if member.bio %} 
-          {{ member.bio }}
-        {% endif %}
+	      
+	{% if member.bio %} 
+	  <div class="member-bio">
+	    {{ member.bio }}
+	  </div>
+	{% endif %}
 
 	<hr>
       </div>
@@ -147,6 +149,10 @@ header-img: "img/students-bg.JPG"
   .social-share-googleplus img {
     width: 20px; /* Set a fixed width for the social icons */
     height: 20px; /* Set a fixed height for the social icons */
+  }
+
+ .member-bio {
+    font-size: 1.5vw; /* Adjust the font size as needed */
   }
 </style>
 
