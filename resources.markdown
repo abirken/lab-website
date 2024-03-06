@@ -31,4 +31,4 @@ To aid us in providing individualized feedback, please include in your email: (1
 * [UD Climate Change Hub](https://sites.udel.edu/climatechangehub/)
 * [DEI at the College of Earth, Ocean, and Environment](https://www.udel.edu/academics/colleges/ceoe/about/dei/)
 * [UDaily News](https://www.udel.edu/udaily/)
-* [UD campus info](https://www.udel.edu/apply/undergraduate-admissions/plan-your-visit/virtual-visit/)
+* [Campus visits](https://www.udel.edu/apply/undergraduate-admissions/plan-your-visit/virtual-visit/)
