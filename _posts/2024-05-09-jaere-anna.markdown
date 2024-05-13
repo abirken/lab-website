@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      New paper published in ~JAERE~
+title:      New paper published in *JAERE*
 author:     Birkenbach-Oremus Lab
 tags: 		  articles
 subtitle:  	
