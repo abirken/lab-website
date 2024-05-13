@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Lab members publish *Science* policy forum
+title:      Lab members publish Science policy forum
 author:     Birkenbach-Oremus Lab
 tags: 		  articles media
 subtitle:  	Research explores "underfished" species
