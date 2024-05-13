@@ -3,7 +3,7 @@ layout:     post
 title:      New paper published in JAERE
 author:     Birkenbach-Oremus Lab
 tags: 		  articles
-subtitle:  	
+subtitle:  	MISTIC model predicts day-to-day fisher behavior
 ---
 <!-- Start Writing Below in Markdown -->
 ## Counterfactual Modeling of Multispecies Fisheries Outcomes under Market-Based Regulation
