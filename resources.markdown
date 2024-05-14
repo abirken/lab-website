@@ -17,10 +17,11 @@ To aid us in providing individualized feedback, please include in your email: (1
 * [Economics](https://lerner.udel.edu/)
 
 
-### Applicant information:
+### Applicant/admittee information:
 * [Link to apply](https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/)
 * [Cost of attendance (for unfunded positions)](https://www.udel.edu/academics/colleges/grad/prospective-students/cost-of-attendance/)
 * [Funding opportunities](https://www.udel.edu/academics/colleges/grad/current-students/funding/)
+* [Off-campus housing resources](https://www.places4students.com/Places/School?SchoolID=XpY%2bczXRSvM%3d)
 
 ### Professional development:
 * [Professional development at UD](https://www.udel.edu/academics/colleges/grad/current-students/professional-development/)
