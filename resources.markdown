@@ -21,6 +21,7 @@ To aid us in providing individualized feedback, please include in your email: (1
 * [Link to apply](https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/)
 * [Cost of attendance (for unfunded positions)](https://www.udel.edu/academics/colleges/grad/prospective-students/cost-of-attendance/)
 * [Funding opportunities](https://www.udel.edu/academics/colleges/grad/current-students/funding/)
+* [Campus visits](https://www.udel.edu/apply/undergraduate-admissions/plan-your-visit/virtual-visit/)
 * [Off-campus housing resources](https://www.places4students.com/Places/School?SchoolID=XpY%2bczXRSvM%3d)
 
 ### Professional development:
@@ -32,7 +33,6 @@ To aid us in providing individualized feedback, please include in your email: (1
 * [UD Climate Change Hub](https://sites.udel.edu/climatechangehub/)
 * [DEI at the College of Earth, Ocean, and Environment](https://www.udel.edu/academics/colleges/ceoe/about/dei/)
 * [UDaily News](https://www.udel.edu/udaily/)
-* [Campus visits](https://www.udel.edu/apply/undergraduate-admissions/plan-your-visit/virtual-visit/)
 
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1iLnHBOrZ1uDpE2J3IJu4JbJDdRmYzIE&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
