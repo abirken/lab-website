@@ -26,13 +26,13 @@ To aid us in providing individualized feedback, please include in your email: (1
 
 ### Professional development:
 * [<span style="color:#337ab7">Professional development at UD</span>](https://www.udel.edu/academics/colleges/grad/current-students/professional-development/)
-* [Career resources for students in the College of Earth, Ocean, and Environment](https://www.udel.edu/academics/colleges/ceoe/current-students/career-resources/)
+* [<span style="color:#337ab7">Career resources for students in the College of Earth, Ocean, and Environment</span>](https://www.udel.edu/academics/colleges/ceoe/current-students/career-resources/)
 * [<span style="color:#337ab7">Share Your Skills seminars</span>](https://www1.udel.edu/shareyourskills/page2.html)
 
 ### Other:
 * [<span style="color:#337ab7">UD Climate Change Hub</span>](https://sites.udel.edu/climatechangehub/)
-* [DEI at the College of Earth, Ocean, and Environment](https://www.udel.edu/academics/colleges/ceoe/about/dei/)
-* [UDaily News](https://www.udel.edu/udaily/)
+* [<span style="color:#337ab7">DEI at the College of Earth, Ocean, and Environment</span>](https://www.udel.edu/academics/colleges/ceoe/about/dei/)
+* [<span style="color:#337ab7">UDaily News</span>](https://www.udel.edu/udaily/)
 
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1iLnHBOrZ1uDpE2J3IJu4JbJDdRmYzIE&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
