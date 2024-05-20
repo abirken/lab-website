@@ -13,12 +13,12 @@ To aid us in providing individualized feedback, please include in your email: (1
 ### Programs we advise under:
 * [<span style="color:#337ab7">Environmental Economics (EE)</span>](https://www.udel.edu/academics/colleges/ceoe/departments/smsp/degree/environmental-economics/)
 * [<span style="color:#337ab7">Marine Policy (MP)</span>](https://www.udel.edu/academics/colleges/ceoe/departments/smsp/degree/marine-policy-degrees/#:~:text=Students%20in%20the%20Marine%20Policy,and%20coupled%20natural%2Dhuman%20environments.)
-* [Environmental Science and Management (ESM)](https://www.udel.edu/academics/colleges/ceoe/prospective-students/graduate/environmental-science-and-management/)
+* [<span style="color:#337ab7">Environmental Science and Management (ESM)</span>](https://www.udel.edu/academics/colleges/ceoe/prospective-students/graduate/environmental-science-and-management/)
 * [<span style="color:#337ab7">Economics</span>](https://lerner.udel.edu/)
 
 
 ### Applicant/admittee information:
-* [Link to apply](https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/)
+* [<span style="color:#337ab7">Link to apply</span>](https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/)
 * [Cost of attendance (for unfunded positions)](https://www.udel.edu/academics/colleges/grad/prospective-students/cost-of-attendance/)
 * [Funding opportunities](https://www.udel.edu/academics/colleges/grad/current-students/funding/)
 * [Campus visits](https://www.udel.edu/apply/undergraduate-admissions/plan-your-visit/virtual-visit/)
