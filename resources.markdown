@@ -19,10 +19,10 @@ To aid us in providing individualized feedback, please include in your email: (1
 
 ### Applicant/admittee information:
 * [<span style="color:#337ab7">Link to apply</span>](https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/)
-* [Cost of attendance (for unfunded positions)](https://www.udel.edu/academics/colleges/grad/prospective-students/cost-of-attendance/)
-* [Funding opportunities](https://www.udel.edu/academics/colleges/grad/current-students/funding/)
-* [Campus visits](https://www.udel.edu/apply/undergraduate-admissions/plan-your-visit/virtual-visit/)
-* [Off-campus housing resources](https://www.places4students.com/Places/School?SchoolID=XpY%2bczXRSvM%3d)
+* [<span style="color:#337ab7">Cost of attendance (for unfunded positions)</span>](https://www.udel.edu/academics/colleges/grad/prospective-students/cost-of-attendance/)
+* [<span style="color:#337ab7">Funding opportunities</span>](https://www.udel.edu/academics/colleges/grad/current-students/funding/)
+* [<span style="color:#337ab7">Campus visits</span>](https://www.udel.edu/apply/undergraduate-admissions/plan-your-visit/virtual-visit/)
+* [<span style="color:#337ab7">Off-campus housing resources</span>](https://www.places4students.com/Places/School?SchoolID=XpY%2bczXRSvM%3d)
 
 ### Professional development:
 * [<span style="color:#337ab7">Professional development at UD</span>](https://www.udel.edu/academics/colleges/grad/current-students/professional-development/)
