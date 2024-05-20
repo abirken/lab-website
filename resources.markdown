@@ -11,7 +11,7 @@ To aid us in providing individualized feedback, please include in your email: (1
 
 
 ### Programs we advise under:
-* [Environmental Economics (EE)](https://www.udel.edu/academics/colleges/ceoe/departments/smsp/degree/environmental-economics/)
+* [<span style="color:#337ab7">Environmental Economics (EE)</span>](https://www.udel.edu/academics/colleges/ceoe/departments/smsp/degree/environmental-economics/)
 * [Marine Policy (MP)](https://www.udel.edu/academics/colleges/ceoe/departments/smsp/degree/marine-policy-degrees/#:~:text=Students%20in%20the%20Marine%20Policy,and%20coupled%20natural%2Dhuman%20environments.)
 * [Environmental Science and Management (ESM)](https://www.udel.edu/academics/colleges/ceoe/prospective-students/graduate/environmental-science-and-management/)
 * [Economics](https://lerner.udel.edu/)
