@@ -25,12 +25,12 @@ To aid us in providing individualized feedback, please include in your email: (1
 * [Off-campus housing resources](https://www.places4students.com/Places/School?SchoolID=XpY%2bczXRSvM%3d)
 
 ### Professional development:
-* [Professional development at UD](https://www.udel.edu/academics/colleges/grad/current-students/professional-development/)
+* [<span style="color:#337ab7">Professional development at UD</span>](https://www.udel.edu/academics/colleges/grad/current-students/professional-development/)
 * [Career resources for students in the College of Earth, Ocean, and Environment](https://www.udel.edu/academics/colleges/ceoe/current-students/career-resources/)
-* [Share Your Skills seminars](https://www1.udel.edu/shareyourskills/page2.html)
+* [<span style="color:#337ab7">Share Your Skills seminars</span>](https://www1.udel.edu/shareyourskills/page2.html)
 
 ### Other:
-* [UD Climate Change Hub](https://sites.udel.edu/climatechangehub/)
+* [<span style="color:#337ab7">UD Climate Change Hub</span>](https://sites.udel.edu/climatechangehub/)
 * [DEI at the College of Earth, Ocean, and Environment](https://www.udel.edu/academics/colleges/ceoe/about/dei/)
 * [UDaily News](https://www.udel.edu/udaily/)
 
