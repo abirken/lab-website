@@ -3,7 +3,7 @@ layout:     post
 title:      Delaware Bay Horseshoe Crabs!
 author:     Birkenbach-Oremus Lab
 tags: 		  posts
-subtitle:  	Lab (and friends) participate in annual volunteer spawning survey
+subtitle:  	Lab + friends participate in annual volunteer spawning survey
 ---
 <!-- Start Writing Below in Markdown -->
 PhD candidate **Seleni Cruz** and classmates Emma Korein and Lorren Ruscetta traveled to the southern Delaware coast to help [count horseshoe crabs](https://www.horseshoecrab.org/act/count.html) as they came ashore in a late-spring spawning ritual that dates back 445 million years. They counted 952 specimens of Delaware's official marine animal, which is in fact more closely related to spiders than crabs. From their 10 eyes to antimicrobial blue blood, these "living fossils" have a number of bizarre and unique adaptations that make them highly valuable for researchers and place them at greater threat of overexploitation, as a 2017 _Washington Post_ article, [This creature has 10 eyes, legs that chew and blood that saved your life](https://www.washingtonpost.com/national/health-science/this-creature-has-10-eyes-legs-that-chew-and-blood-that-saved-your-life/2017/07/03/02777544-5d04-11e7-a9f6-7c3296387341_story.html), explains.
