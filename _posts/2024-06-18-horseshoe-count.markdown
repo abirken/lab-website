@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Delaware Bay Horseshoe Crabs!
+title:      Delaware Bay horseshoe crabs!
 author:     Birkenbach-Oremus Lab
 tags: 		  posts
 subtitle:  	Lab + friends participate in annual volunteer crab survey
