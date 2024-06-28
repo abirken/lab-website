@@ -23,7 +23,7 @@ header-img: "img/research-bg.JPG"
 
 ### Support:
 To support students studying fisheries economics at UD:
-1. Please visit [<span style="color:#337ab7">https://ud.alumniq.com/giving/to/makeagift</span>](https://ud.alumniq.com/giving/to/makeagift) [<kbd> <br> Donate <br> </kbd>][https://ud.alumniq.com/giving/to/makeagift]
+1. Please visit [<span style="color:#337ab7">https://ud.alumniq.com/giving/to/makeagift</span>](https://ud.alumniq.com/giving/to/makeagift)
 2. Click the link that says "I'd like to search for a different option" 
 3. Search for keywords "fisheries" and "economics" to find the _Lee G. Anderson Fisheries Economics and Management Fellowship_
 
