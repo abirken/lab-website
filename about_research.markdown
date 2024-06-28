@@ -23,9 +23,8 @@ header-img: "img/research-bg.JPG"
 
 ### Support:
 To support students studying fisheries economics at UD:
-1. Please visit [<span style="color:#337ab7">https://ud.alumniq.com/giving/to/makeagift</span>](https://ud.alumniq.com/giving/to/makeagift)
-2. Click the link that says "I'd like to search for a different option" 
+1. Please visit [Support](https://ud.alumniq.com/giving/to/makeagift){: .btn}[<span style="color:#337ab7">https://ud.alumniq.com/giving/to/makeagift</span>](https://ud.alumniq.com/giving/to/makeagift)
+2. Scroll down and click the link that says "I'd like to search for a different option" 
 3. Search for keywords "fisheries" and "economics" to find the _Lee G. Anderson Fisheries Economics and Management Fellowship_
 
 We are grateful to DE Sea Grant, NOAA Fisheries, Delaware Department of Natural Resources & Environmental Control (DNREC), the Natural Resources Defense Council (NRDC), and others for financial support of our research!
-[Support](https://ud.alumniq.com/giving/to/makeagift){: .btn}
