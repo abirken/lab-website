@@ -3,7 +3,7 @@ layout:     post
 title:      On the Origin of Thesis
 author:     Ben Hurley
 tags: 		  posts
-subtitle:  	New MMP grad Ben Hurley reflects on the evolution of his research at UD
+subtitle:  	New MMP grad Ben Hurley reflects on the evolution of his research
 ---
 <!-- Start Writing Below in Markdown -->
 In my two short years at the University of Delaware, my research has undergone a few changes. In the spring of 2023, I found myself trudging up a gravel path to interview the UD Dairy Operation about their cows. In the 
