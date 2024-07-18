@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      On the Origin of Thesis
+title:      On the Origin of Theses
 author:     Ben Hurley
 tags: 		  posts
 subtitle:  	New MMP grad Ben Hurley reflects on the evolution of his research
