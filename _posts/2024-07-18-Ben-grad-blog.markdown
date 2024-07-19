@@ -6,6 +6,8 @@ tags: 		  posts
 subtitle:  	New MMP grad Ben Hurley reflects on the evolution of his research
 ---
 <!-- Start Writing Below in Markdown -->
+*By: Ben Hurley, Master of Marine Policy 2024*
+
 In my two short years at the University of Delaware, my research has undergone a few changes. In the spring of 2023, I found myself trudging up a gravel path to interview the UD Dairy Operation about their cows. In the spring of 2024, I completed my master’s degree after defending a research project on shellfish permitting in Washington state. The path from cows to clams had its twists, but it was nothing if not enriching.
 
 I entered the Master's in Marine Policy program with a background in marine science. My research experience was largely limited to analyzing fish guts, and the idea of designing a policy-based research question was daunting. I was unsure of even where to start in picking a research question that was worth studying: meaningful in some way, yet able to be tackled by a novice researcher. An elusive balance.
@@ -29,5 +31,3 @@ I am incredibly grateful to Dr. Oremus and Dr. Birkenbach for their continued su
 the tools I need to succeed in my work while developing the independence, resilience, and ingenuity to take on policy questions in years to come. As I 
 head into law school this fall, I have no doubt my experience at UD will open new doors for me in coastal policy. And if some of those doors involve cows 
 again, I'll be ready for them.
-
--Ben Hurley, Master of Marine Policy 2024
