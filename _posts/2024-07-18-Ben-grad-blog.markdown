@@ -29,3 +29,5 @@ I am incredibly grateful to Dr. Oremus and Dr. Birkenbach for their continued su
 the tools I need to succeed in my work while developing the independence, resilience, and ingenuity to take on policy questions in years to come. As I 
 head into law school this fall, I have no doubt my experience at UD will open new doors for me in coastal policy. And if some of those doors involve cows 
 again, I'll be ready for them.
+
+-Ben Hurley, Master of Marine Policy 2024
