@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      GO-FISH
+title:      GO-FISH dataset published
 author:     Birkenbach-Oremus Lab
 tags: 		  articles
 subtitle:  	Geolocated Ocean-Fishery Identified Spawning Habitats
