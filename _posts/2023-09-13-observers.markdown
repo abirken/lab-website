@@ -10,5 +10,5 @@ Fishery observers play a critical role in managing and conserving fish stocks in
 
 Figure 1: Summary of commercial fishery citations and fine guidance for the Alaska (AK) and Northeast (NE) regions.
 
-<img src="https://www.frontiersin.org/files/Articles/1232642/fmars-10-1232642-HTML/image_m/fmars-10-1232642-g001.jpg" alt="Description" width="75%">
+<img src="https://www.frontiersin.org/files/Articles/1232642/fmars-10-1232642-HTML/image_m/fmars-10-1232642-g001.jpg" alt="Fig. 1" width="75%">
 
