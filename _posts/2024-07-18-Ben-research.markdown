@@ -8,7 +8,7 @@ subtitle:   MMP Ben Hurley reflects on the evolution of his research question
 <!-- Start Writing Below in Markdown -->
 ![Description](http://birkenbach-oremus-lab.github.io/website/img/posts/2024-07-18-1.jpg)
 
-*By: Ben Hurley, Master of Marine Policy, 2024*
+*By: **Ben Hurley**, Master of Marine Policy, 2024*
 
 In my two short years at the University of Delaware, my research has undergone a few changes. In the spring of 2023, I found myself trudging up a gravel path to interview the UD Dairy Operation about their cows. In the spring of 2024, I completed my master’s degree after defending a research project on shellfish permitting in Washington state. The path from cows to clams had its twists, but it was nothing if not enriching.
 
