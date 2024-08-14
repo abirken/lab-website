@@ -6,7 +6,7 @@ tags: 		  posts
 subtitle:  	Seleni Cruz awarded funding for food systems research
 ---
 <!-- Start Writing Below in Markdown -->
-Congratulations to PhD candidate Seleni Cruz, who is a 2024 recipient of the World Wildlife Fund (WWF)'s [Russell E. Train Education for Nature (EFN) Program Fellowship](https://www.worldwildlife.org/projects/russell-e-train-fellowships)! Seleni joins nearly 60 other fellows from 26 countries in the 2024 EFN cohort, the largest in the 30-year history of the Program. Description below:
+Congratulations to PhD candidate Seleni Cruz, who is a new recipient of the World Wildlife Fund (WWF)'s [Russell E. Train Education for Nature (EFN) Program Fellowship](https://www.worldwildlife.org/projects/russell-e-train-fellowships)! Seleni joins nearly 60 other fellows from 26 countries in the 2024 EFN cohort, the largest in the 30-year history of the Program. Description below:
 
 >"The aim of the Food Systems Fellowship is to support outstanding master's or doctoral students to develop evidence-based, innovative, and interdisciplinary research on food systems at the national level to catalyze the process of generating an improved understanding of the country-specific nature of food systems and transformation. Fellows will also have an opportunity to join the expansive global community of EFN alumni to enable knowledge exchange and collective success."
 
