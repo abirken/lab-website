@@ -6,6 +6,8 @@ tags: 		  posts media
 subtitle:  	Dr. Birkenbach joins the NCLIM initiative
 ---
 <!-- Start Writing Below in Markdown -->
+![Description](http://birkenbach-oremus-lab.github.io/website/img/posts/2024-08-14-1.png)
+
 **Dr. Anna Birkenbach** joins the [Northeast U.S. Climate Integrated Modeling (NCLIM) Initiative](https://gmri.org/projects/northeast-climate-integrated-modeling-nclim/) as co-PI on a [newly awarded](https://cpo.noaa.gov/funded_projects/nclim-2-northeast-u-s-climate-integrated-modeling-initiative-to-meet-ocean-decision-challenges/) NOAA Climate and Fisheries Adaptation (CAFA) grant. Dr. Birkenbach and a multi-disciplinary team of researchers from the University of Maine, Gulf of Maine Research Institute (GMRI), Rutgers University, University of Massachusetts - Dartmouth, and NOAA will develop research and tools to inform marine resource decision-making under projected climate change in the Northeast U.S. shelf ecosystem. 
 
 NCLIM is one of only five national projects focused on climate-integrated modeling and the only one focused on the Northeast United States. Under the new grant, the NCLIM team will test climate adaptation strategies and their socioeconomic impacts by: 1) linking climate, ecosystem, and human dimensions models, 2) simulation testing the performance of climate adaptation strategies, and 3) developing models to support climate adaptation scenarios. As one of the lead researchers on the human dimensions side, Dr. Birkenbach will model the [fishing fleet's behavioral responses](https://www.journals.uchicago.edu/doi/10.1086/727356) to climate-induced changes to the abundance and distribution of fish stocks in the region, along with community-level impacts that may result from redistribution of landings.
