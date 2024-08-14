@@ -7,7 +7,7 @@ subtitle:  	Seleni Cruz awarded funding for food systems research
 ---
 <!-- Start Writing Below in Markdown -->
 <img src="https://files.worldwildlife.org/wwfcmsprod/images/Shrimp_fishery/story_full_width/1i07f1bw8d_tropical_shrimp_what_wwf_doingMID_258333.jpg" alt="Shrimp fishery, Mexico" width="80%">
-Shrimp fishery, Mexico (Credit: WWF-Canon / Emilie Hugenholtz)
+<p style="text-align: center;">Shrimp fishery, Mexico (Credit: WWF-Canon / Emilie Hugenholtz)</p>
 
 Congratulations to PhD candidate Seleni Cruz, who is a new recipient of the World Wildlife Fund (WWF)'s [Russell E. Train Education for Nature (EFN) Program Fellowship](https://www.worldwildlife.org/projects/russell-e-train-fellowships)! Seleni joins nearly 60 other fellows from 26 countries in the 2024 EFN cohort, the largest in the 30-year history of the Program. Description below:
 
