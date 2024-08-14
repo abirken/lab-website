@@ -12,4 +12,4 @@ Congratulations to PhD candidate Seleni Cruz, who is a new recipient of the Worl
 
 Support from this fellowship will help expand the depth and reach of Seleni's research, which explores how small-scale fishing operations and the species they rely on respond to climate shocks. The broad range of species and community types she is studying can yield insights not only for her country of focus, but also for geographically and ecologically comparable settings that may display similar adaptive strategies. Well done, Seleni!
 
-![Shrimp fishery, Mexico](https://files.worldwildlife.org/wwfcmsprod/images/Shrimp_fishery/story_full_width/1i07f1bw8d_tropical_shrimp_what_wwf_doingMID_258333.jpg)
+[Shrimp fishery, Mexico](https://files.worldwildlife.org/wwfcmsprod/images/Shrimp_fishery/story_full_width/1i07f1bw8d_tropical_shrimp_what_wwf_doingMID_258333.jpg)
