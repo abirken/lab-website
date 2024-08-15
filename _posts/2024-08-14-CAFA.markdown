@@ -8,7 +8,7 @@ subtitle:  	Dr. Birkenbach joins the NCLIM initiative
 <!-- Start Writing Below in Markdown -->
 <!-- ![Description](http://birkenbach-oremus-lab.github.io/website/img/posts/2024-08-14-1.png)-->
 <div style="text-align: center;">
-    <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2024-08-14-1.png" alt="NCLIM participant map" width="95%">
+    <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2024-08-14-1.png" alt="NCLIM participant map" width="100%">
     <em>Key building blocks in the NCLIM effort to support climate-informed decisions in fisheries.</em>
 </div>
 
