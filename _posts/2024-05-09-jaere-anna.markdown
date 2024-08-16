@@ -6,9 +6,9 @@ tags: 		  articles
 subtitle:  	MISTIC model predicts daily fisher behavior in multispecies context
 ---
 <!-- Start Writing Below in Markdown -->
-<div style="text-align: center;">
+<div style="text-align: left;">
     <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2024-05-09-1.png" alt="three vessels" width="100%">
-    <em>Fishing vessels in Chatham, MA.</em>
+    <em>Fishing vessels in Chatham, MA</em>
 </div>
 **Dr. Birkenbach** and co-authors Min-Yang Lee and Martin D. Smith just published their paper, [Counterfactual Modeling of Multispecies Fisheries Outcomes under Market-Based Regulation](https://www.journals.uchicago.edu/doi/10.1086/727356), in the *Journal of the Association of Environmental and Resource Economists*, marking the culmination of work funded by the NMFS/Sea Grant Fellowship in Marine Resource Economics and NOAA Fisheries. Dr. Birkenbach led the development of the Multispecies Intra-Seasonal Targeting/Timing Choice (MISTIC) model and estimation of structural parameters that allow for the prediction of individual fisher choices as to what and when to fish. Using the New England groundfish fishery as their empirical application, the authors conduct a counterfactual analysis of how fishers' choices and their aggregate outcomes would have differed if the fishery had not transitioned to quota/catch share management. 
 
