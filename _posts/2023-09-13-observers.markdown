@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Two master's students' projects published
+title:      Master's students' projects published
 author:     Birkenbach-Oremus Lab
 tags: 		  articles
 subtitle:  	Study explores mistreatment of on-board fishery observers
