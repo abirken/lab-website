@@ -3,7 +3,7 @@ layout:     post
 title:      New paper published in JAERE
 author:     Birkenbach-Oremus Lab
 tags: 		  articles
-subtitle:  	MISTIC model predicts daily fisher behavior in multispecies context
+subtitle:  	MISTIC model predicts daily fishing choices
 ---
 <!-- Start Writing Below in Markdown -->
 <div style="text-align: left;">
