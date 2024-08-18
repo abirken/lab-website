@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Lab student wins marine policy award!
+title:      Student wins marine policy award!
 author:     Birkenbach-Oremus Lab
 tags: 		  posts
 subtitle:  	Ben Hurley receives Knecht and Cicin-Sain Award
