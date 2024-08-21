@@ -8,12 +8,12 @@ subtitle:  	Seleni Cruz awarded funding for food systems research
 <!-- Start Writing Below in Markdown -->
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <figure style="margin: 0 10px;">
-        <img src="https://files.worldwildlife.org/wwfcmsprod/images/Shrimp_fishery/story_full_width/1i07f1bw8d_tropical_shrimp_what_wwf_doingMID_258333.jpg" alt="Shrimp fishery, Mexico" width="100%">
-        <figcaption>Shrimp fishery, Mexico (Credit: WWF/E. Hugenholtz)</figcaption>
-    </figure>
-    <figure style="margin: 0 10px;">
         <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2024-07-17.jpeg" alt="IIFET 2024" width="90%">
         <figcaption>Seleni presenting at IIFET 2024 Conference</figcaption>
+    </figure>
+    <figure style="margin: 0 10px;">
+        <img src="https://files.worldwildlife.org/wwfcmsprod/images/Shrimp_fishery/story_full_width/1i07f1bw8d_tropical_shrimp_what_wwf_doingMID_258333.jpg" alt="Shrimp fishery, Mexico" width="100%">
+        <figcaption>Shrimp fishery, Mexico (Credit: WWF/E. Hugenholtz)</figcaption>
     </figure>
 </div>
 
