@@ -13,7 +13,7 @@ subtitle:  	Seleni Cruz awarded funding for food systems research
     </figure>
     <figure style="margin: 0 10px;">
         <img src="https://files.worldwildlife.org/wwfcmsprod/images/Shrimp_fishery/story_full_width/1i07f1bw8d_tropical_shrimp_what_wwf_doingMID_258333.jpg" alt="Shrimp fishery, Mexico" width="100%">
-        <figcaption>Shrimp fishery, Mexico (Credit: WWF/E. Hugenholtz)</figcaption>
+        <figcaption style="text-align: center; font-size: 10px;">Shrimp fishery, Mexico (Credit: WWF/E. Hugenholtz)</figcaption>
     </figure>
 </div>
 
