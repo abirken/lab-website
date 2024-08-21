@@ -12,7 +12,7 @@ subtitle:  	Seleni Cruz awarded funding for food systems research
         <figcaption>Shrimp fishery, Mexico (Credit: WWF/E. Hugenholtz)</figcaption>
     </figure>
     <figure style="margin: 0 10px;">
-        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2024-07-17.jpeg" alt="IIFET 2024" width="100%">
+        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2024-07-17.jpeg" alt="IIFET 2024" width="90%">
         <figcaption>Seleni presenting at IIFET 2024 Conference</figcaption>
     </figure>
 </div>
