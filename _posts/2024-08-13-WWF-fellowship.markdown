@@ -8,7 +8,7 @@ subtitle:  	Seleni Cruz awarded funding for food systems research
 <!-- Start Writing Below in Markdown -->
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <figure style="margin: 0 10px;">
-        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2024-07-17.jpeg" alt="IIFET 2024" width="90%">
+        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2024-07-17.jpeg" alt="IIFET 2024" width="85%">
         <figcaption>Seleni presenting (Credit: A. Cojocaru)</figcaption>
     </figure>
     <figure style="margin: 0 10px;">
