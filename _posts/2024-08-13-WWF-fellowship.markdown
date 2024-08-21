@@ -6,11 +6,17 @@ tags: 		  posts
 subtitle:  	Seleni Cruz awarded funding for food systems research
 ---
 <!-- Start Writing Below in Markdown -->
-<div style="text-align: center;">
-    <img src="https://files.worldwildlife.org/wwfcmsprod/images/Shrimp_fishery/story_full_width/1i07f1bw8d_tropical_shrimp_what_wwf_doingMID_258333.jpg" alt="Shrimp fishery, Mexico" width="50%" style="display: inline-block; vertical-align: top; margin-right: 10px;">
-    <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2024-07-17.jpeg" alt="IIFET 2024" width="50%" style="display: inline-block; vertical-align: top;">
-    <br><em>Shrimp fishery, Mexico (Credit: WWF/E. Hugenholtz)</em>
+<div style="text-align: center; display: flex; justify-content: center; align-items: center;">
+    <figure style="margin: 0 10px;">
+        <img src="https://files.worldwildlife.org/wwfcmsprod/images/Shrimp_fishery/story_full_width/1i07f1bw8d_tropical_shrimp_what_wwf_doingMID_258333.jpg" alt="Shrimp fishery, Mexico" width="100%">
+        <figcaption>Shrimp fishery, Mexico (Credit: WWF/E. Hugenholtz)</figcaption>
+    </figure>
+    <figure style="margin: 0 10px;">
+        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2024-07-17.jpeg" alt="IIFET 2024" width="100%">
+        <figcaption>Seleni presenting at IIFET 2024 Conference</figcaption>
+    </figure>
 </div>
+
 
 
 Congratulations to PhD candidate **Seleni Cruz**, who is a 2024 recipient of the World Wildlife Fund (WWF)'s [Russell E. Train Education for Nature (EFN) Program Fellowship](https://www.worldwildlife.org/projects/russell-e-train-fellowships)! Seleni joins nearly 60 other fellows from 26 countries in this year's EFN cohort, the largest in the 30-year history of the Program. Description below:
