@@ -7,6 +7,7 @@ subtitle:   Seleni Cruz writes about her experience at IIFET 2024
 ---
 <!-- Start Writing Below in Markdown -->
 *By: **Seleni Cruz**, Environmental Economics PhD candidate*
+
 I am thrilled to share my experience presenting at the International Institute of Fisheries Economics and Trade (IIFET) conference in Penang, Malaysia. This biennial event brought together researchers, policymakers, and stakeholders from around the world to discuss pressing issues related to fisheries and aquaculture economics and trade. The theme of this year’s conference, "Aquatic Food Systems in the Blue Economy," perfectly captured the complex interplay between sustainability, economic development, and social equity that defines our field today.
 
 In addition to the insightful discussions, it was the perfect opportunity to indulge in the amazing cuisine of Southeast Asia, enjoy some time on tropical beaches, and drink plenty of coconut water, which is a personal favorite.
