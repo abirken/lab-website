@@ -7,6 +7,7 @@ subtitle:   Seleni Cruz writes about her experience at IIFET 2024
 ---
 <!-- Start Writing Below in Markdown -->
 <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2024-08-27-1.JPEG" alt="Pre-conference workshop" width="100%">
+
 *By: **Seleni Cruz**, Environmental Economics PhD candidate*
 
 I am thrilled to share my experience presenting at the International Institute of Fisheries Economics and Trade (IIFET) conference in Penang, Malaysia. This biennial event brought together researchers, policymakers, and stakeholders from around the world to discuss pressing issues related to fisheries and aquaculture economics and trade. The theme of this year’s conference, "Aquatic Food Systems in the Blue Economy," perfectly captured the complex interplay between sustainability, economic development, and social equity that defines our field today.
@@ -31,7 +32,12 @@ Outside the conference rooms, the atmosphere was vibrant, with conversations buz
 **My Presentation**
 
 I had the opportunity to present my job market paper, "ENSO and Diversification: Evidence from Small-Scale Fisheries in Mexico." My work focuses on how communities adapt fishing and labor allocation decisions in the face of climatic shocks like ENSO. I shared the session with several incredible colleagues, including Silvia Salas and Matt Reimer. The audience was filled with familiar and friendly faces, which certainly helped ease my nerves. This was the first time I presented my job market paper at a larger conference, and I could not have asked for a better turnout and feedback.
-<img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2024-08-27-4.png" alt="Pre-conference workshop" width="50%">
+<div style="text-align: center; display: flex; justify-content: center; align-items: center;">
+    <figure style="margin: 0 2px;">
+        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2024-08-27-4.png" alt="My IIFET presentation" width="50%">
+        <figcaption style="text-align: center; font-size: 12px;">My IIFET presentation (Credit: A. Cojocaru)</figcaption>
+    </figure>
+</div>
 
 **Pre-Conference Workshop on Integrating Gender into Fisheries and Aquaculture Research**
 
