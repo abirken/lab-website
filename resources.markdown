@@ -28,6 +28,7 @@ To aid us in providing individualized feedback, please include in your email: (1
 ### Professional development:
 * [<span style="color:#337ab7">Professional development at UD</span>](https://www.udel.edu/academics/colleges/grad/current-students/professional-development/)
 * [<span style="color:#337ab7">Career resources for students in the College of Earth, Ocean, and Environment</span>](https://www.udel.edu/academics/colleges/ceoe/current-students/career-resources/)
+* [<span style="color:#337ab7">Graduate Student Writing Center</span>](https://writingcenter.udel.edu/for-graduate-students/graduate-student-writing-center/)
 * [<span style="color:#337ab7">Share Your Skills seminars</span>](https://www1.udel.edu/shareyourskills/page2.html)
 
 
