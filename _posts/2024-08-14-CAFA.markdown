@@ -10,7 +10,7 @@ subtitle:  	Dr. Birkenbach joins regional climate initiative
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <figure style="margin: 0 2px;">
         <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2024-08-14-1.png" alt="NCLIM participant map" width="100%">
-        <figcaption style="text-align: center; font-size: 12px;">Key building blocks in the NCLIM effort to support climate-informed decisions in fisheries. Dr. Birkenbach chooses to believe the fish are drawn to scale. </figcaption>
+        <figcaption style="text-align: center; font-size: 12px;">Key NCLIM building blocks. Dr. Birkenbach chooses to believe the fish are drawn to scale. </figcaption>
     </figure>
 </div>
 
