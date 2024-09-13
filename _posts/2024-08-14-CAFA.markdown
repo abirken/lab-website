@@ -7,9 +7,11 @@ subtitle:  	Dr. Birkenbach joins regional climate initiative
 ---
 <!-- Start Writing Below in Markdown -->
 <!-- ![Description](http://birkenbach-oremus-lab.github.io/website/img/posts/2024-08-14-1.png)-->
-<div style="text-align: center;">
-    <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2024-08-14-1.png" alt="NCLIM participant map" width="100%">
-    <em>Key building blocks in the NCLIM effort to support climate-informed decisions in fisheries.</em>
+<div style="text-align: center; display: flex; justify-content: center; align-items: center;">
+    <figure style="margin: 0 2px;">
+        <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2024-08-14-1.png" alt="NCLIM participant map" width="100%">
+        <figcaption style="text-align: center; font-size: 12px;">Key building blocks in the NCLIM effort to support climate-informed decisions in fisheries. </figcaption>
+    </figure>
 </div>
 
 **Dr. Anna Birkenbach** joins the [Northeast U.S. Climate Integrated Modeling (NCLIM) Initiative](https://gmri.org/projects/northeast-climate-integrated-modeling-nclim/) as co-PI on a [newly awarded](https://cpo.noaa.gov/funded_projects/nclim-2-northeast-u-s-climate-integrated-modeling-initiative-to-meet-ocean-decision-challenges/) NOAA Climate and Fisheries Adaptation (CAFA) grant. Dr. Birkenbach and a multi-disciplinary team of researchers from the University of Maine, Gulf of Maine Research Institute, Rutgers University, University of Massachusetts - Dartmouth, and NOAA will develop tools to inform marine resource decision-making under projected climate change in the Northeast U.S. shelf ecosystem. 
