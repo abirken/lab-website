@@ -33,7 +33,8 @@ To aid us in providing individualized feedback, please include in your email: (1
 
 
 ### Other:
-* [<span style="color:#337ab7">UD Climate Change Hub / Climate Fellows</span>](https://sites.udel.edu/climatechangehub/)
+* [<span style="color:#337ab7">UD Climate Change Hub</span>](https://sites.udel.edu/climatechangehub/)
+* [<span style="color:#337ab7">Graduate Student Organizations</span>](https://www.udel.edu/academics/colleges/grad/current-students/grad-student-organizations/)
 * [<span style="color:#337ab7">DEI at the College of Earth, Ocean, and Environment</span>](https://www.udel.edu/academics/colleges/ceoe/about/dei/)
 * [<span style="color:#337ab7">UDaily News</span>](https://www.udel.edu/udaily/)
 
