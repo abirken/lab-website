@@ -19,7 +19,7 @@ header-img: "img/research-bg.JPG"
 * Small-scale fisheries
 * Fishery monitoring/enforcement
 * Resource valuation
-* ...and more
+...and more
 
 ### Support:
 We are grateful to DE Sea Grant, NOAA Fisheries, Delaware Department of Natural Resources & Environmental Control (DNREC), the Natural Resources Defense Council (NRDC), and others for financial support of our research!
