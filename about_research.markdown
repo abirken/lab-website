@@ -22,7 +22,7 @@ header-img: "img/research-bg.JPG"
 * ...and more
 
 ### Support:
-We are grateful to DE Sea Grant, NOAA Fisheries, Delaware Department of Natural Resources & Environmental Control (DNREC), the Natural Resources Defense Council (NRDC), and others for financial support of our research!
+We are grateful to DE Sea Grant, NOAA Fisheries, Delaware Department of Natural Resources & Environmental Control (DNREC), the Natural Resources Defense Council (NRDC), and others for financial support of our research! Outside funding helps cover the costs of tuition, research assistantships, computing/software resources, conference travel, publication fees, and other expenses related to our graduate students' training and research.
 
 #### To support students studying fisheries economics at UD:
 1. Please visit <!---[Support](https://ud.alumniq.com/giving/to/makeagift){: .btn}--->[<span style="color:#337ab7">ud.alumniq.com/giving/to/makeagift</span>](https://ud.alumniq.com/giving/to/makeagift) 
