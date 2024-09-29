@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      20,000 Versions Under the Sea
+title:      Journey of 1,000 Versions
 author:     Birkenbach-Oremus Lab
 tags: 		  posts media articles
 subtitle:  	Dr. Birkenbach + coauthors receive Outstanding Article award
