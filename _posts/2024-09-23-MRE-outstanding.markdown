@@ -10,6 +10,8 @@ subtitle:  	Dr. Birkenbach + coauthors receive Outstanding Article award
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <figure style="margin: 0 2px;">
         <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2024-09-23-1.png" alt="screenshot" width="100%">
+          <figcaption style="text-align: center; font-size: 14px;">"Marine Resource Economics is proud to highlight this significant work, which deepens our understanding of when catch shares can enhance seafood market value. The analysis by Birkenbach and co-authors offers invaluable insights by advancing the theory of price impacts from catch shares and providing empirically rigorous estimates of these effects across a diverse range of U.S. fisheries. Their work makes a significant contribution to our knowledge of the revenue implications of this key fisheries management tool."
+-Sunny Jardine, Editor-in-Chief of _MRE_ </figcaption>
     </figure>
 </div>
 
@@ -25,8 +27,5 @@ Anna and David graduated, sharing the Dean's Award for Outstanding Student Manus
 And what happened then? Well...in Whoville they say that the little price paper at last found its way.  ["Do catch shares increase prices? Evidence from U.S. fisheries"](https://www.journals.uchicago.edu/doi/full/10.1086/725010#:~:text=Eliminating%20the%20race%20to%20fish,also%20fetch%20a%20price%20premium.) was published in _Marine Resource Economics (MRE)_ last year and has just received the journal's Outstanding Article Award:
 
 >"The theoretical advantages of catch shares, such as reducing overcapacity from the 'race to fish' and increasing harvest value, have long been acknowledged. Birkenbach et al. (2023) provides a nuanced perspective on how catch shares influence the value of seafood harvest, identifying conditions where catch shares may have little to no impact on seafood prices, or even negative effects, and demonstrating how price impacts can vary in multi-species fisheries. Their study explores these theoretical ideas by applying causal inference methods to data from 39 U.S. fisheries that adopted catch shares. The authors find mixed evidence of price effects, with positive impacts more likely in high-value fisheries (e.g., Pacific halibut and Atlantic sea scallop) and negative impacts observed in lower-value fisheries (e.g., white hake and Pacific yellowtail rockfish)."
-
->"Marine Resource Economics is proud to highlight this significant work, which deepens our understanding of when catch shares can enhance seafood market value. The analysis by Birkenbach and co-authors offers invaluable insights by advancing the theory of price impacts from catch shares and providing empirically rigorous estimates of these effects across a diverse range of U.S. fisheries. Their work makes a significant contribution to our knowledge of the revenue implications of this key fisheries management tool."
--Sunny Jardine, Editor-in-Chief of _MRE_
 
 The authors (**Anna Birkenbach**, David Kaczan, Marty Smith, Greg Ardini, Dan Holland, Min‐Yang Lee, Doug Lipton, and Mike Travis) are thrilled that this work found a home in MRE and are honored to receive this recognition, which they share with the many wonderful colleagues who have provided feedback, data, and encouragement along the way. Special shout-out to Lee Anderson, whose kind support and enormous heart are sorely missed. 
