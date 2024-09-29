@@ -10,9 +10,9 @@ subtitle:  	Dr. Birkenbach + coauthors receive Outstanding Article award
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <figure style="margin: 0 2px;">
         <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2024-09-23-1.png" alt="screenshot" width="100%">
-        <figcaption style="text-align: center; font-size: 12px;">A recognition ten years in the making. </figcaption>
     </figure>
 </div>
+
 
 It began as a term paper for Professor Marty Smith's Natural Resource Economics class. Duke PhD students **Anna Birkenbach** and David Kaczan set out to conduct a simple empirical test of a core theory underlying rights-based fisheries management: secure rights should eliminate the "race to fish" and yield longer seasons, fresher/higher-quality seafood, and higher prices for fishers. 
 
