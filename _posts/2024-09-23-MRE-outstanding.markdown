@@ -8,7 +8,7 @@ subtitle:  	Dr. Birkenbach + coauthors receive Outstanding Article award
 <!-- Start Writing Below in Markdown -->
 <!-- ![Description](http://birkenbach-oremus-lab.github.io/website/img/posts/2024-08-14-1.png)-->
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
-    <figure style="margin: 0 2px;">
+    <figure style="margin: 0 2px; border: 2px solid black;">
         <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2024-09-23-1.png" alt="screenshot" width="100%">
           <figcaption style="text-align: left; font-size: 14px;">"Marine Resource Economics is proud to highlight this significant work, which deepens our understanding of when catch shares can enhance seafood market value. The analysis by Birkenbach and co-authors offers invaluable insights by advancing the theory of price impacts from catch shares and providing empirically rigorous estimates of these effects across a diverse range of U.S. fisheries. Their work makes a significant contribution to our knowledge of the revenue implications of this key fisheries management tool."
 -Sunny Jardine, Editor-in-Chief </figcaption>
