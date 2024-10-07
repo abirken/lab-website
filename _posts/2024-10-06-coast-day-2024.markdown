@@ -9,7 +9,7 @@ subtitle:  	Lab members share the magic of blue crabs
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <figure style="margin: 0 2px;">
         <img src="http://birkenbach-oremus-lab.github.io/website/img/posts/2024-10-06-1.jpg" alt="Coast Day collage" width="100%">
-        <figcaption style="text-align: center; font-size: 12px;">Scenes from our table in the Sea Grant tent at Coast Day 2024. (Credit: A. Birkenbach) </figcaption>
+        <figcaption style="text-align: center; font-size: 12px;">Scenes from our table in the Sea Grant tent at Coast Day 2024 (Credit: A. Birkenbach) </figcaption>
     </figure>
 </div>
 
