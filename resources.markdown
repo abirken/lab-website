@@ -5,7 +5,7 @@ description: "Information for prospective students"
 header-img: "img/resources-bg.jpg"
 ---
 ### We love hearing from interested students!
-All prospective graduate students should begin by completing this [<span style="color:#337ab7">interest form</span>](https://forms.gle/KqiyThnYCLzSi2LK7) to be matched with a program aligning with their interests. Inquiries regarding PhD/research positions will be automatically forwarded to the appropriate faculty member, who will follow up to discuss whether your interests are a good fit for our group and what project/funding opportunities are available in the current recruiting cycle. We are especially interested in applicants with strong quantitative and programming backgrounds. 
+Prospective graduate students should begin by completing this [<span style="color:#337ab7">interest form</span>](https://forms.gle/KqiyThnYCLzSi2LK7) to be matched with a program aligning with their interests. Inquiries regarding PhD/research positions will be automatically forwarded to the appropriate faculty member, who will follow up to discuss whether your interests are a good fit for our group and what project/funding opportunities are available in the current recruiting cycle. We are especially interested in applicants with strong quantitative and programming backgrounds. 
 
 For more general inquiries, we refer you to the links below:
 
