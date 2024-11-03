@@ -7,8 +7,6 @@ header-img: "img/resources-bg.jpg"
 ### We love hearing from interested students!
 We ask that prospective graduate students first complete this [<span style="color:#337ab7">interest form</span>](https://forms.gle/KqiyThnYCLzSi2LK7) to receive program-specific guidance on next steps. Inquiries regarding PhD/research positions will be automatically forwarded to the appropriate faculty member, who will follow up to discuss whether your interests are a good fit for our group and what project/funding opportunities are available in the current recruiting cycle. We are especially interested in applicants with strong quantitative and programming backgrounds. 
 
-For more general inquiries, we refer you to the links below:
-
 [comment]: # (Those seeking PhD positions should email Dr. Birkenbach and/or Dr. Oremus at the addresses listed on our webpages. Please note that funding is limited and that, due to a large volume of inquiries, we are unable to respond to every email we receive. We are especially interested in applicants with strong quantitative/programming backgrounds. To aid us in providing individualized feedback, please include in your email: (1) a current CV, (2) transcripts from prior coursework, and (3) a brief summary of research interests and future goals. As resources permit, we will follow up to discuss whether your interests are a good fit for our group and what project/funding opportunities are available in the current recruiting cycle. For more general inquiries, we refer you to the links below.)  
 
 ### Programs we advise under:
