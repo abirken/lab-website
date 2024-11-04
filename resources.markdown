@@ -37,7 +37,7 @@ We ask that prospective graduate students first complete this [<span style="colo
 * [<span style="color:#337ab7">UD Events Calendar</span>](https://events.udel.edu/)
 * [<span style="color:#337ab7">UD Review (student newpaper)</span>](https://udreview.com/)
 * [<span style="color:#337ab7">DEI at the College of Earth, Ocean, and Environment</span>](https://www.udel.edu/academics/colleges/ceoe/about/dei/)
-* [<span style="color:#337ab7">Student Wellbeing</span>](https://www.udel.edu/students/health-wellbeing/)
+* [<span style="color:#337ab7">Student wellbeing resources</span>](https://www.udel.edu/students/health-wellbeing/)
 * [<span style="color:#337ab7">UDaily News</span>](https://www.udel.edu/udaily/)
 
 
