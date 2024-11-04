@@ -16,7 +16,7 @@ We ask that prospective graduate students first complete this [<span style="colo
 * [<span style="color:#337ab7">Economics</span>](https://lerner.udel.edu/)
 
 
-### Applicant/admittee information:
+### Applicant information:
 * [<span style="color:#337ab7">Link to apply</span>](https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/)
 * [<span style="color:#337ab7">Cost of attendance (for unfunded positions)</span>](https://www.udel.edu/academics/colleges/grad/prospective-students/cost-of-attendance/)
 * [<span style="color:#337ab7">Funding opportunities</span>](https://www.udel.edu/academics/colleges/grad/current-students/funding/)
@@ -39,6 +39,7 @@ We ask that prospective graduate students first complete this [<span style="colo
 * [<span style="color:#337ab7">DEI at the College of Earth, Ocean, and Environment</span>](https://www.udel.edu/academics/colleges/ceoe/about/dei/)
 * [<span style="color:#337ab7">Student wellbeing resources</span>](https://www.udel.edu/students/health-wellbeing/)
 * [<span style="color:#337ab7">UDaily News</span>](https://www.udel.edu/udaily/)
+
 
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1iLnHBOrZ1uDpE2J3IJu4JbJDdRmYzIE&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
