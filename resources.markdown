@@ -21,24 +21,23 @@ We ask that prospective graduate students first complete this [<span style="colo
 * [<span style="color:#337ab7">Cost of attendance (for unfunded positions)</span>](https://www.udel.edu/academics/colleges/grad/prospective-students/cost-of-attendance/)
 * [<span style="color:#337ab7">Funding opportunities</span>](https://www.udel.edu/academics/colleges/grad/current-students/funding/)
 * [<span style="color:#337ab7">Campus visits</span>](https://www.udel.edu/apply/undergraduate-admissions/plan-your-visit/virtual-visit/)
-* [<span style="color:#337ab7">Off-campus housing resources</span>](https://www.places4students.com/Places/School?SchoolID=XpY%2bczXRSvM%3d)
-
+  
 
 ### Professional development:
 * [<span style="color:#337ab7">Professional development at UD</span>](https://www.udel.edu/academics/colleges/grad/current-students/professional-development/)
 * [<span style="color:#337ab7">Career resources for students in the College of Earth, Ocean, and Environment</span>](https://www.udel.edu/academics/colleges/ceoe/current-students/career-resources/)
 * [<span style="color:#337ab7">Graduate Student Writing Center</span>](https://writingcenter.udel.edu/for-graduate-students/graduate-student-writing-center/)
 * [<span style="color:#337ab7">Share Your Skills seminars</span>](https://www1.udel.edu/shareyourskills/page2.html)
-
-
-### Other:
 * [<span style="color:#337ab7">UD Climate Change Hub</span>](https://sites.udel.edu/climatechangehub/)
+
+
+### Student life:
+* [<span style="color:#337ab7">Off-campus housing resources</span>](https://www.places4students.com/Places/School?SchoolID=XpY%2bczXRSvM%3d)
 * [<span style="color:#337ab7">Graduate Student Organizations</span>](https://www.udel.edu/academics/colleges/grad/current-students/grad-student-organizations/)
+* [<span style="color:#337ab7">UD Events Calendar</span>](https://events.udel.edu/)
 * [<span style="color:#337ab7">UD Review (student newpaper)</span>](https://udreview.com/)
 * [<span style="color:#337ab7">DEI at the College of Earth, Ocean, and Environment</span>](https://www.udel.edu/academics/colleges/ceoe/about/dei/)
 * [<span style="color:#337ab7">UDaily News</span>](https://www.udel.edu/udaily/)
-* [<span style="color:#337ab7">UD Events Calendar</span>](https://events.udel.edu/)
-
 
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1iLnHBOrZ1uDpE2J3IJu4JbJDdRmYzIE&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
